@@ -1,0 +1,93 @@
+*
+{
+    font-family: Georgia, serif;
+}
+.back
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://img.freepik.com/free-photo/columns-coins-grass_155003-12338.jpg?w=1800&t=st=1705991465~exp=1705992065~hmac=5ac65c1af0e30acf12d265a134a53e2f27c6d416af6f16139223612dfa85ede5);
+    position: absolute;
+    background-size: cover;
+    margin-top: -410px;
+    margin-left: -720px;
+    padding: 0;
+    display: flex;
+}
+.log
+{
+    /* background-image: url(https://img.freepik.com/free-photo/coins-grass_155003-14925.jpg?w=826&t=st=1706022521~exp=1706023121~hmac=2de8ea10289b4244c2e4bc0492da0b33ba9f1398f5642563ac0e4d3ee26806dd);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat; */
+    justify-content: center;
+    border: 3px solid rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    backdrop-filter: blur(3px);
+    width:30%;
+    height: 85vh;
+    align-items: center;
+    display: flex;
+    margin-left: 35%;
+    margin-top:60px;
+
+}
+.social{
+    display:flex;
+    justify-content:space-around;
+    padding:30px;
+  }
+
+.h1n{
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+h2{
+    font-size: 1em;
+    color: rgb(0, 0, 0);
+}
+.inputb
+{
+    margin-top: 260px;
+    position: relative;
+    margin: 30px 0;
+    /* width: 0px; */
+    /* border-bottom: 2px solid #000000; */
+}
+.inputb label
+{
+    position: absolute;
+    top:  12px;
+    left: 5px;
+    transform: translateY(-110%);
+    color: #000000;
+    font-size: 1.4em;
+    pointer-events: none;
+    transition: 500s;
+}
+.inputb input
+{
+    margin-top: 12px;
+    width: 300px;
+    height: 50px;
+    font-size: 1em;
+    border: none;
+    outline: none;
+    padding: 0 35px 0 5px;
+    color:#a7d183;
+    background-color: #cbf7cd;
+    border-radius: 10px;
+}
+.but1
+{
+    width: 60%;
+    /* height: 50px; */
+    border-radius: 30px;
+    background: #000000;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 500;
+}
