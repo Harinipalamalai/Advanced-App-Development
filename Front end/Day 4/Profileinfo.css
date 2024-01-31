@@ -1,0 +1,22 @@
+.profilebg{
+    background-image: url(https://images.pexels.com/photos/207247/pexels-photo-207247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 100vh;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.harshini{
+    width: 400px;
+    height: 200px;
+    background-color: #ccd8cdad;
+    border-radius: 30px;
+    padding: 70px;
+}
+.prohed{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}

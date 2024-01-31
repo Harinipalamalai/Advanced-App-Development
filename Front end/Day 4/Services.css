@@ -1,0 +1,269 @@
+.services-container {
+    background-image: url(https://morningchores.com/wp-content/uploads/2020/12/budget-food-garden.jpg);
+   height: 130vh;
+    background-size: cover;
+  
+  } 
+  
+  .navi4 {
+    position: absolute;
+    top: 10px; 
+    left: 58%; 
+    width: 40%;
+    color: rgb(4, 3, 3);
+    font-size: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .navi4 a:hover{
+    background-color: #aac799;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+.no-hover{
+    pointer-events: none;
+    cursor: default;
+    color: initial;
+    background-color: none;
+    text-decoration-color: #090c0a;
+    text-decoration-line:overline;
+
+  }
+.navi4 a{
+    font-size: 28px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+.about-me {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+  /* padding: 100px ; */
+ 
+}
+.about-me p{
+  color: white;
+}
+.about-me img {
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0px;
+}
+.about-me-text {
+  font-size: 30px;
+  color: #333333;
+  text-transform: uppercase;
+  margin: 0;
+}
+.about-me-text p {
+  font-size: 40px;
+  color: #585858;
+  margin: 10px 0;
+}
+.about-me img {
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0px;
+}
+.about-me-text {
+  font-size: 30px;
+  color: #333333;
+  text-transform: uppercase;
+  margin: 0;
+}
+.about-me-text p {
+  font-size: 40px;
+  color: #585858;
+  margin: 10px 0;
+}
+/* CSS for footer */
+.about-me1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+    /* padding: 100px ; */
+  }
+.about-me1 img {
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px;
+  }
+  
+  .about-me1-text {
+    font-size: 30px;
+    color: #333333;
+    text-transform: uppercase;
+    margin: 0;
+  }
+  
+  .about-me1-text p {
+    font-size: 40px;
+    color: #585858;
+    margin: 10px 0;
+  }
+.eventside{
+  font-size:15px;
+}
+.event1{
+    border:2px solid rgb(8, 7, 10); 
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    background: linear-gradient(179.1deg, rgb(43, 170, 96) 2.3%, rgb(129, 204, 104) 98.3%);
+    color: white;
+    height:380px;
+    width: 300px;
+    
+}
+
+
+  
+.event1:hover{
+    /* transform: scale(1.05) rotate(-1deg); */
+        transform: translateY(-5px);
+    box-shadow:0px 8px 12px rgb(161, 235, 160) ; 
+    
+}.event2:hover{
+    transform: translateY(-5px);
+    box-shadow:0px 8px 12px rgb(161, 235, 160) ; 
+    
+}.event3:hover{
+    transform: translateY(-5px);
+    box-shadow:0px 8px 12px rgb(161, 235, 160) ; 
+    
+}.event4:hover{
+    transform: translateY(-5px);
+    box-shadow:0px 8px 12px rgb(161, 235, 160) ; 
+    
+}.event4:hover{
+    transform: translateY(-5px);
+    box-shadow:0px 8px 12px rgb(161, 235, 160) ; 
+    
+}.event6:hover{
+    transform: translateY(-5px);
+    box-shadow:0px 8px 12px rgb(161, 235, 160) ; 
+    
+}
+.event2{
+    border:2px solid rgb(8, 7, 10); 
+    border-radius: 5px;
+  /* box-shadow:#121e6a ;  */
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ;  */
+  padding: 5px 5px 5px 5px;
+  background: linear-gradient(179.1deg, rgb(43, 170, 96) 2.3%, rgb(129, 204, 104) 98.3%);
+  color: white;
+  height:380px;
+  width: 300px;
+
+}
+.event3{
+    border:2px solid rgb(8, 7, 10); 
+    border-radius: 5px;
+  /* box-shadow:#121e6a ;  */
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ;  */
+  padding: 5px 5px 5px 5px;
+  background: linear-gradient(179.1deg, rgb(43, 170, 96) 2.3%, rgb(129, 204, 104) 98.3%);
+  color: white;
+  height:380px;
+  width: 300px;
+
+}
+.event4{
+    border:2px solid rgb(8, 7, 10); 
+    border-radius: 5px;
+  /* box-shadow:#121e6a ;  */
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ;  */
+  padding: 5px 5px 5px 5px;
+  background: linear-gradient(179.1deg, rgb(43, 170, 96) 2.3%, rgb(129, 204, 104) 98.3%);
+  color: white;
+  height:380px;
+  width: 300px;
+
+}
+.event5{
+    border:2px solid rgb(8, 7, 10); 
+    border-radius: 5px;
+  /* box-shadow:#121e6a ;  */
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ;  */
+  padding: 5px 5px 5px 5px;
+  background: linear-gradient(179.1deg, rgb(43, 170, 96) 2.3%, rgb(129, 204, 104) 98.3%);
+  color: white;
+  height:380px;
+  width: 300px;
+
+}
+.event6{
+    border:2px solid rgb(8, 7, 10); 
+    border-radius: 5px;
+  /* box-shadow:#121e6a ;  */
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ;  */
+  padding: 5px 5px 5px 5px;
+  background: linear-gradient(179.1deg, rgb(43, 170, 96) 2.3%, rgb(129, 204, 104) 98.3%);
+  color: white;
+  height:380px;
+  width: 300px;
+
+}
+.para{
+    margin-top: 10px
+}
+@import url('https://fonts.googleapis.com/css?family=Libre+Caslon+Text:400,700&display=swap');
+.button-33 {
+    margin-top:15px;
+    margin-left:10px ;
+  background-color: #77e873;
+  border-radius: 10px;
+  box-shadow: #14ad24,;
+  color: rgb(6, 2, 20);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 17px 30px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow: rgba(25, 111, 177, 0.35) 0 -25px 18px -14px inset,rgba(51, 18, 132, 0.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+.button-31 {
+    margin-top: 18px;
+    margin-left:10px ;
+  background-color: #77e873;
+  border-radius: 10px;
+  box-shadow: #14ad24,;
+  color: rgb(6, 2, 20);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 17px 30px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-31:hover {
+  box-shadow: rgba(25, 111, 177, 0.35) 0 -25px 18px -14px inset,rgba(51, 18, 132, 0.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
